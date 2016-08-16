@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ychubachi/github_setup.svg?branch=master)](https://travis-ci.org/ychubachi/github_setup)
+
 # GithubSetup
 
 This is a ruby script which sets up GitHub SSH connection.
