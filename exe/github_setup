@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "github_setup"
+
+puts 'Hello, github_setup'
